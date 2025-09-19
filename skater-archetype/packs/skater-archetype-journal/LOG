@@ -1,8 +1,0 @@
-2025/09/19-16:09:43.492 1e4c Recovering log #8
-2025/09/19-16:09:43.494 1e4c Delete type=0 #8
-2025/09/19-16:09:43.495 1e4c Delete type=3 #6
-2025/09/19-16:11:52.696 df8 Level-0 table #13: started
-2025/09/19-16:11:52.696 df8 Level-0 table #13: 0 bytes OK
-2025/09/19-16:11:52.696 df8 Delete type=0 #11
-2025/09/19-16:11:52.697 df8 Manual compaction at level-0 from '!journal!rxjYL27qpOHR5NNx' @ 72057594037927935 : 1 .. '!journal.pages!rxjYL27qpOHR5NNx.sNGdgoECITeewxEx' @ 0 : 0; will stop at (end)
-2025/09/19-16:11:52.697 df8 Manual compaction at level-1 from '!journal!rxjYL27qpOHR5NNx' @ 72057594037927935 : 1 .. '!journal.pages!rxjYL27qpOHR5NNx.sNGdgoECITeewxEx' @ 0 : 0; will stop at (end)

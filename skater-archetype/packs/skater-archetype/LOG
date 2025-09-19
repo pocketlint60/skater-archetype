@@ -1,8 +1,0 @@
-2025/09/19-16:09:43.487 568c Recovering log #8
-2025/09/19-16:09:43.490 568c Delete type=0 #8
-2025/09/19-16:09:43.490 568c Delete type=3 #6
-2025/09/19-16:11:52.691 df8 Level-0 table #13: started
-2025/09/19-16:11:52.691 df8 Level-0 table #13: 0 bytes OK
-2025/09/19-16:11:52.692 df8 Delete type=0 #11
-2025/09/19-16:11:52.692 df8 Manual compaction at level-0 from '!folders!1tDX3aERCKgII3BO' @ 72057594037927935 : 1 .. '!items!z8OWAlPVYaifD94g' @ 0 : 0; will stop at (end)
-2025/09/19-16:11:52.692 df8 Manual compaction at level-1 from '!folders!1tDX3aERCKgII3BO' @ 72057594037927935 : 1 .. '!items!z8OWAlPVYaifD94g' @ 0 : 0; will stop at (end)
