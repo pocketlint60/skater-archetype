@@ -1,0 +1,7 @@
+2025/09/19-16:03:20.793 49e8 Recovering log #4
+2025/09/19-16:03:20.796 49e8 Delete type=0 #4
+2025/09/19-16:03:20.796 49e8 Delete type=3 #2
+2025/09/19-16:09:39.253 df8 Level-0 table #9: started
+2025/09/19-16:09:39.255 df8 Level-0 table #9: 16952 bytes OK
+2025/09/19-16:09:39.256 df8 Delete type=0 #7
+2025/09/19-16:09:39.256 df8 Manual compaction at level-0 from '!folders!1tDX3aERCKgII3BO' @ 72057594037927935 : 1 .. '!items!z8OWAlPVYaifD94g' @ 0 : 0; will stop at (end)
